@@ -1,0 +1,16 @@
+.profile-img {
+  height: 100px;
+  width: 100px;
+}
+.name {
+  font-size: 20px;
+  color: #12022f;
+  font-weight: bold;
+}
+
+.role {
+  color: #616e7c;
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+}
